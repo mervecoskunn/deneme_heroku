@@ -1,1 +1,1 @@
-web:gunicorn deneme_heroku.wsgi
+web: gunicorn deneme_heroku.wsgi
