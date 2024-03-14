@@ -22,7 +22,7 @@
 
 ## User Experience
 
-bdbdbdjdkkds,smsksksldld,c,x,x
+I designed this platform with desgin thinking approach. With only the necessary content/information. User can surf the site easily and get the information they are looking for. Please find all my defined user stories [here]()    !!!! issues screenshot add here!
 
 ## Admin
 mnnmxdmmdxmxxx, xx
