@@ -97,5 +97,4 @@ msjmkjskss
 ## Acknowledgements
 
 
-testing models
-![model-test](/Users/merve/deneme_heroku/documents/homepage-test-code.png)
+![homepage test](documents/homepage-test-code.png)
