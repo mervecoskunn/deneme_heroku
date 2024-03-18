@@ -98,4 +98,4 @@ msjmkjskss
 
 
 testing models
-[model-test](/Users/merve/deneme_heroku/deneme_heroku/urls.py)
+![model-test](/Users/merve/deneme_heroku/documents/homepage-test-code.png)
