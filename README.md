@@ -98,3 +98,6 @@ msjmkjskss
 
 
 ![homepage test](documents/homepage-test-code.png)
+
+-Home page 
+![home page balsamiq](documents/home-page-balsamiq.png)
